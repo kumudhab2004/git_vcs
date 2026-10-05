@@ -1,2 +1,2 @@
 Welcome to DevOps Lab!
-git push origin MAIN
+git push origin MASTER
